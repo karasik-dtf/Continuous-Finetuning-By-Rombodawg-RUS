@@ -1,3 +1,7 @@
+```
+Это перевод статьи [отсюда](https://www.reddit.com/r/LocalLLaMA/comments/1fyx27y/im_pretty_happy_with_how_my_method_worked_out/?share_id=XwUHQP5DX2KhKOUBbvEAS&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1)
+```
+
 # Непрерывное дообучение без потерь
 ## Использование Lora и Mergekit
 
